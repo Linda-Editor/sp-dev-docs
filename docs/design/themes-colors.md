@@ -5,9 +5,9 @@ ms.date: 09/25/2017
 
 # SharePoint themes and colors
 
-Like the Microsoft brand palette, the SharePoint themes are designed to build on the Microsoft brand, while at the same time allow for flexibility to enliven our partnerships without dominating them. They reveal our shared goals and personality, and reflect our diversity and ability to optimize the SharePoint experience.
+Like the Microsoft brand palette, the SharePoint themes are designed to build on the Microsoft brand, while at the same time allow for flexibility to enliven our partnerships without dominating them. They reveal our shared goals and personality and reflect our diversity and ability to optimize the SharePoint experience.
 
-
+<br/>
 
 ![SharePoint color palette, Red D13438, Orange CA5010, Green 10893E, Blue 0078D7, Purple 6B69D6, Gray 5D5A5B ](../images/design-theme-colors.png)
 
@@ -17,7 +17,7 @@ The following design principles helped form the current SharePoint themes and co
 
 **Guided**
 
-Our theming system works at a global level so updates can be made consistently across each site, allowing users to optimize their websites effortlessly.
+Our theming system works at a global level so that updates can be made consistently across each site, allowing users to optimize their websites effortlessly.
 
 Our theming system operates in a controlled environment so that successful outcomes can be optimized quickly.
 
@@ -40,7 +40,48 @@ The SharePoint color palette has been optimized for screens and devices, and to 
 
 ### Red
 
-<table><tr><td style="color:white; background-color:#751b1e">themeDarker: #751b1e</td><td style="color:white; background-color:#000000">black: #000000</td></tr><tr><td style="color:white; background-color:#952226">themeDark: #952226</td><td style="color:white; background-color:#212121">neutralDark: #212121</td></tr><tr><td style="color:white; background-color:#c02b30">themeDarkAlt: #c02b30</td><td style="color:white; background-color:#333">neutralPrimary: #333</td></tr><tr><td rowspan=3 style="font-weight:bold; vertical-align:middle; color:white; background-color:#d13438">themePrimary: #d13438</td><td style="color:white; background-color:#3c3c3c">neutralPrimaryAlt: #3c3c3c</td></tr><tr><td style="color:white; background-color:#666666">neutralSecondary: #666666</td></tr><tr><td style="color:black; background-color:#a6a6a6">neutralTertiary: #a6a6a6</td></tr><tr><td style="color:white; background-color:#d6494d">themeSecondary: #d6494d</td><td style="color:black; background-color:#c8c8c8">neutralTertiaryAlt: #c8c8c8</td></tr><tr><td style="color:black; background-color:#ecaaac">themeTertiary: #ecaaac</td><td style="color:black; background-color:#eaeaea">neutralLight: #eaeaea</td></tr><tr><td style="color:black; background-color:#f6d6d8">themeLight: #f6d6d8</td><td style="color:black; background-color:#f4f4f4">neutralLighter: #f4f4f4</td></tr><tr><td style="color:black; background-color:#faebeb">themeLighter: #faebeb</td><td style="color:black; background-color:#f8f8f8">neutralLighterAlt: #f8f8f8</td></tr><tr><td style="color:black; background-color:#fdf5f5">themeLighterAlt: #fdf5f5</td><td style="color:black; background-color:#fff">white: #fff</td></tr></table>
+<table style="font-weight:bold; vertical-align:middle">
+<tr>
+<td style="color:white; background-color:#751b1e">themeDarker: #751b1e</td>
+<td style="color:white; background-color:#000000">black: #000000</td>
+</tr>
+<tr>
+<td style="color:white; background-color:#952226">themeDark: #952226</td>
+<td style="color:white; background-color:#212121">neutralDark: #212121</td>
+</tr>
+<tr>
+<td style="color:white; background-color:#c02b30">themeDarkAlt: #c02b30</td>
+<td style="color:white; background-color:#333">neutralPrimary: #333</td>
+</tr>
+<tr>
+<td style="color:white; background-color:#d13438">themePrimary: #d13438</td>
+<td style="color:white; background-color:#3c3c3c">neutralPrimaryAlt: #3c3c3c</td>
+</tr>
+<tr>
+<td style="color:white; background-color:#666666">neutralSecondary: #666666</td>
+<td style="color:black; background-color:#a6a6a6">neutralTertiary: #a6a6a6</td>
+</tr>
+<tr>
+<td style="color:white; background-color:#d6494d">themeSecondary: #d6494d</td>
+<td style="color:black; background-color:#c8c8c8">neutralTertiaryAlt: #c8c8c8</td>
+</tr>
+<tr>
+<td style="color:black; background-color:#ecaaac">themeTertiary: #ecaaac</td>
+<td style="color:black; background-color:#eaeaea">neutralLight: #eaeaea</td>
+</tr>
+<tr>
+<td style="color:black; background-color:#f6d6d8">themeLight: #f6d6d8</td>
+<td style="color:black; background-color:#f4f4f4">neutralLighter: #f4f4f4</td>
+</tr>
+<tr>
+<td style="color:black; background-color:#faebeb">themeLighter: #faebeb</td>
+<td style="color:black; background-color:#f8f8f8">neutralLighterAlt: #f8f8f8</td>
+</tr>
+<tr>
+<td style="color:black; background-color:#fdf5f5">themeLighterAlt: #fdf5f5</td>
+<td style="color:black; background-color:#fff">white: #fff</td>
+</tr>
+</table>
 
 ### Orange
 
