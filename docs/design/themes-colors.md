@@ -31,7 +31,7 @@ Our themes embody a professional look and feel that ensures coherency and convey
 
 **Accessible**
 
-Our built-in accessibility checker ensures universal design at all levels of default themes. For users who decide to customize, we provide helpful guidelines to design for accessibility. 
+Our built-in accessibility checker ensures universal design at all levels of default themes. For users who decide to customize, we provide helpful guidelines to design for accessibility.  
 
 ## Colors
 
@@ -85,11 +85,93 @@ The SharePoint color palette has been optimized for screens and devices, and to 
 
 ### Orange
 
-<table><tr><td style="color:white; background-color:#6f2d09">themeDarker: #6f2d09</td><td style="color:white; background-color:#000000">black: #000000</td></tr><tr><td style="color:white; background-color:#8d390b">themeDark: #8d390b</td><td style="color:white; background-color:#212121">neutralDark: #212121</td></tr><tr><td style="color:white; background-color:#b5490f">themeDarkAlt: #b5490f</td><td style="color:white; background-color:#333">neutralPrimary: #333</td></tr><tr><td rowspan=3 style="font-weight:bold; vertical-align:middle; color:white; background-color:#ca5010">themePrimary: #ca5010</td><td style="color:white; background-color:#3c3c3c">neutralPrimaryAlt: #3c3c3c</td></tr><tr><td style="color:white; background-color:#666666">neutralSecondary: #666666</td></tr><tr><td style="color:black; background-color:#a6a6a6">neutralTertiary: #a6a6a6</td></tr><tr><td style="color:white; background-color:#e55c12">themeSecondary: #e55c12</td><td style="color:black; background-color:#c8c8c8">neutralTertiaryAlt: #c8c8c8</td></tr><tr><td style="color:black; background-color:#f6b28d">themeTertiary: #f6b28d</td><td style="color:black; background-color:#eaeaea">neutralLight: #eaeaea</td></tr><tr><td style="color:black; background-color:#fbdac9">themeLight: #fbdac9</td><td style="color:black; background-color:#f4f4f4">neutralLighter: #f4f4f4</td></tr><tr><td style="color:black; background-color:#fdede4">themeLighter: #fdede4</td><td style="color:black; background-color:#f8f8f8">neutralLighterAlt: #f8f8f8</td></tr><tr><td style="color:black; background-color:#fef6f1">themeLighterAlt: #fef6f1</td><td style="color:black; background-color:#fff">white: #fff</td></tr></table>
+<table style="font-weight:bold; vertical-align:middle">
+<tr>
+<td style="color:white; background-color:#6f2d09">themeDarker: #6f2d09</td>
+<td style="color:white; background-color:#000000">black: #000000</td>
+</tr>
+<tr>
+<td style="color:white; background-color:#8d390b">themeDark: #8d390b</td>
+<td style="color:white; background-color:#212121">neutralDark: #212121</td>
+</tr>
+<tr>
+<td style="color:white; background-color:#b5490f">themeDarkAlt: #b5490f</td>
+<td style="color:white; background-color:#333">neutralPrimary: #333</td>
+</tr>
+<tr>
+<td style="color:white; background-color:#ca5010">themePrimary: #ca5010</td>
+<td style="color:white; background-color:#3c3c3c">neutralPrimaryAlt: #3c3c3c</td>
+</tr>
+<tr>
+<td style="color:white; background-color:#666666">neutralSecondary: #666666</td>
+<td style="color:black; background-color:#a6a6a6">neutralTertiary: #a6a6a6</td>
+</tr>
+<tr>
+<td style="color:white; background-color:#e55c12">themeSecondary: #e55c12</td>
+<td style="color:black; background-color:#c8c8c8">neutralTertiaryAlt: #c8c8c8</td>
+</tr>
+<tr>
+<td style="color:black; background-color:#f6b28d">themeTertiary: #f6b28d</td>
+<td style="color:black; background-color:#eaeaea">neutralLight: #eaeaea</td>
+</tr>
+<tr>
+<td style="color:black; background-color:#fbdac9">themeLight: #fbdac9</td>
+<td style="color:black; background-color:#f4f4f4">neutralLighter: #f4f4f4</td>
+</tr>
+<tr>
+<td style="color:black; background-color:#fdede4">themeLighter: #fdede4</td>
+<td style="color:black; background-color:#f8f8f8">neutralLighterAlt: #f8f8f8</td>
+</tr>
+<tr>
+<td style="color:black; background-color:#fef6f1">themeLighterAlt: #fef6f1</td>
+<td style="color:black; background-color:#fff">white: #fff</td>
+</tr>
+</table>
 
 ### Green
 
-<table><tr><td style="color:white; background-color:#094c23">themeDarker: #094c23</td><td style="color:white; background-color:#000000">black: #000000</td></tr><tr><td style="color:white; background-color:#0c602c">themeDark: #0c602c</td><td style="color:white; background-color:#212121">neutralDark: #212121</td></tr><tr><td style="color:white; background-color:#0f7c39">themeDarkAlt: #0f7c39</td><td style="color:white; background-color:#333">neutralPrimary: #333</td></tr><tr><td rowspan=3 style="font-weight:bold; vertical-align:middle; color:white; background-color:#10893e">themePrimary: #10893e</td><td style="color:white; background-color:#3c3c3c">neutralPrimaryAlt: #3c3c3c</td></tr><tr><td style="color:white; background-color:#666666">neutralSecondary: #666666</td></tr><tr><td style="color:black; background-color:#a6a6a6">neutralTertiary: #a6a6a6</td></tr><tr><td style="color:white; background-color:#14a94e">themeSecondary: #14a94e</td><td style="color:black; background-color:#c8c8c8">neutralTertiaryAlt: #c8c8c8</td></tr><tr><td style="color:black; background-color:#7aefa7">themeTertiary: #7aefa7</td><td style="color:black; background-color:#eaeaea">neutralLight: #eaeaea</td></tr><tr><td style="color:black; background-color:#bff7d5">themeLight: #bff7d5</td><td style="color:black; background-color:#f4f4f4">neutralLighter: #f4f4f4</td></tr><tr><td style="color:black; background-color:#dffbea">themeLighter: #dffbea</td><td style="color:black; background-color:#f8f8f8">neutralLighterAlt: #f8f8f8</td></tr><tr><td style="color:black; background-color:#effdf4">themeLighterAlt: #effdf4</td><td style="color:black; background-color:#fff">white: #fff</td></tr></table>
+<table style="font-weight:bold; vertical-align:middle">
+<tr>
+<td style="color:white; background-color:#094c23">themeDarker: #094c23</td>
+<td style="color:white; background-color:#000000">black: #000000</td>
+</tr>
+<tr>
+<td style="color:white; background-color:#0c602c">themeDark: #0c602c</td>
+<td style="color:white; background-color:#212121">neutralDark: #212121</td>
+</tr>
+<tr>
+<td style="color:white; background-color:#0f7c39">themeDarkAlt: #0f7c39</td>
+<td style="color:white; background-color:#333">neutralPrimary: #333</td>
+</tr>
+<tr>
+<td style="color:white; background-color:#10893e">themePrimary: #10893e</td>
+<td style="color:white; background-color:#3c3c3c">neutralPrimaryAlt: #3c3c3c</td>
+</tr>
+<tr>
+<td style="color:white; background-color:#666666">neutralSecondary: #666666</td>
+<td style="color:black; background-color:#a6a6a6">neutralTertiary: #a6a6a6</td>
+</tr>
+<tr>
+<td style="color:white; background-color:#14a94e">themeSecondary: #14a94e</td>
+<td style="color:black; background-color:#c8c8c8">neutralTertiaryAlt: #c8c8c8</td>
+</tr>
+<tr>
+<td style="color:black; background-color:#7aefa7">themeTertiary: #7aefa7</td>
+<td style="color:black; background-color:#eaeaea">neutralLight: #eaeaea</td>
+</tr>
+<tr>
+<td style="color:black; background-color:#bff7d5">themeLight: #bff7d5</td>
+<td style="color:black; background-color:#f4f4f4">neutralLighter: #f4f4f4</td>
+</tr>
+<tr>
+<td style="color:black; background-color:#dffbea">themeLighter: #dffbea</td>
+<td style="color:black; background-color:#f8f8f8">neutralLighterAlt: #f8f8f8</td>
+</tr>
+<tr>
+<td style="color:black; background-color:#effdf4">themeLighterAlt: #effdf4</td>
+<td style="color:black; background-color:#fff">white: #fff</td>
+</tr>
+</table>
 
 ### Blue
 
