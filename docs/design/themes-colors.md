@@ -31,7 +31,7 @@ Our themes embody a professional look and feel that ensures coherency and convey
 
 **Accessible**
 
-Our built-in accessibility checker ensures universal design at all levels of default themes. For users who decide to customize, we provide helpful guidelines to design for accessibility.  
+Our built-in accessibility checker ensures universal design at all levels of default themes. For users who decide to customize, we provide helpful guidelines to design for accessibility.
 
 ## Colors
 
